@@ -1,0 +1,11 @@
+# Personal / local-only — never distributed
+system/profile.md
+system/.preonboard/
+.canonical
+
+# Onboarding / project outputs (personal)
+Projects/my-digest/digest-*.md
+Projects/**/today-*.md
+
+# OS cruft
+.DS_Store
