@@ -261,5 +261,11 @@ Close with a short, warm briefing — **no menu, just tell them**, in their lang
    *"Want me to point you to how?"*
 5. **Go further when ready:** *"Say 'catch me up' any time. Once a week, say 'level up'. And when you
    want to **edit** Google Sheets & Docs, say 'level up google'."*
+6. **Say hi (optional, opt-in — offer once, never nag):** warmly invite them —
+   *"One last thing, only if you feel like it: tell the person who shared this kit with you that you
+   made it to 🏆 Champion — reply to their post or drop them a message. They'd genuinely love to hear
+   it, and it helps them make the kit better. Totally optional."* If they say yes and aren't sure how,
+   help them draft a one-line "it worked!" note. Do **not** collect or send anything automatically —
+   this is theirs to send.
 
 End on one encouraging line in their language.

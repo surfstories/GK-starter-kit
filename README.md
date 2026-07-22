@@ -82,7 +82,7 @@ what to do next.
 
 ---
 
-*Kit version **v1.00** · updated 2026-07-22. Built by George Kachanouski (GK). English and Русский
+*Kit version **v1.01** · updated 2026-07-22. Built by George Kachanouski (GK). English and Русский
 are both maintained; if they differ, the assistant follows whichever language you're working in.*
 
-<!-- KIT-VERSION: v1.00 — single source of truth for the kit version. Bump by 0.01 on every change (v1.00 → v1.01 → v1.02 …) and update the date on the line above. -->
+<!-- KIT-VERSION: v1.01 — single source of truth for the kit version. Bump by 0.01 on every change (v1.00 → v1.01 → v1.02 …) and update the date on the line above. -->
