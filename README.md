@@ -56,6 +56,10 @@ setup — just tell the assistant **"level up google"** when you're ready.*
 
 ## More information (reference)
 
+**Share this kit:** the friendly download page (RU/EN, with the Download button and steps) is at
+https://claude.ai/code/artifact/eb9b7d69-bc7e-4746-ae36-7e6defb84c0d — that's the link to hand to
+people. Techies can also use the repo directly: github.com/surfstories/GK-starter-kit
+
 **What you need:** the **Claude desktop app** (it has the Connectors that make the Google step
 one-click). If you only use Claude Code in a terminal, switch to the desktop app for this kit.
 
@@ -82,7 +86,7 @@ what to do next.
 
 ---
 
-*Kit version **v1.01** · updated 2026-07-22. Built by George Kachanouski (GK). English and Русский
+*Kit version **v1.02** · updated 2026-07-22. Built by George Kachanouski (GK). English and Русский
 are both maintained; if they differ, the assistant follows whichever language you're working in.*
 
-<!-- KIT-VERSION: v1.01 — single source of truth for the kit version. Bump by 0.01 on every change (v1.00 → v1.01 → v1.02 …) and update the date on the line above. -->
+<!-- KIT-VERSION: v1.02 — single source of truth for the kit version. Bump by 0.01 on every change (v1.00 → v1.01 → v1.02 …) and update the date on the line above. -->
